@@ -6,22 +6,22 @@ import './style.css';
 const albumCovers = [
   {
     selector: '.cover-homework',
-    src: '/album_covers/homework.jpg',
+    src: './album_covers/homework.jpg',
     alt: 'Portada del álbum Homework de Daft Punk'
   },
   {
     selector: '.cover-discovery',
-    src: '/album_covers/discovery.jpg',
+    src: './album_covers/discovery.jpg',
     alt: 'Portada del álbum Discovery de Daft Punk'
   },
   {
     selector: '.cover-human',
-    src: '/album_covers/human.jpg',
+    src: './album_covers/human.jpg',
     alt: 'Portada del álbum Human After All de Daft Punk'
   },
   {
     selector: '.cover-ram',
-    src: '/album_covers/ram.jpg',
+    src: './album_covers/ram.jpg',
     alt: 'Portada del álbum Random Access Memories de Daft Punk'
   }
 ];
